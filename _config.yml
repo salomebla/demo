@@ -1,2 +1,7 @@
 theme: jekyll-theme-WhatATheme
-add theme to index.html 
+
+bundle exec jekyll serve
+
+git add .
+git commit -m "Add and customize WhatATheme"
+git push
